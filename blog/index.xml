@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Prashant&#39;s Scrapbook</title>
+    <link>https://prashantshahi.dev/blog/</link>
+    <description>Recent content in Blogs on Prashant&#39;s Scrapbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>prashantshahi.dev</copyright>
+    <lastBuildDate>Wed, 10 Apr 2019 08:30:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://prashantshahi.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deleting ElasticSearch indices periodically using Curator and Cron Job</title>
+      <link>https://prashantshahi.dev/blog/periodically-deleting-es-indices/</link>
+      <pubDate>Wed, 10 Apr 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/blog/periodically-deleting-es-indices/</guid>
+      <description>Here is a complete step-by-step instruction to set a cronjob using Curator to delete ElasticSearch indices periodically.
+Installation of Python and Pip You can skip this step, if you already have python and pip.
+Step 1:
+Ensure that all packages are up-to-date. After running the command below, you’ll get an output of any packages getting their update.
+sudo apt-get update Step 2:
+Install python and pip using apt-get.
+sudo apt-get install -y python-dev python-pip Step 3:</description>
+    </item>
+    
+    <item>
+      <title>Some of the best Blockchain Invention — yet to explore full potential</title>
+      <link>https://prashantshahi.dev/blog/explore-blockchain/</link>
+      <pubDate>Sun, 15 Jul 2018 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/blog/explore-blockchain/</guid>
+      <description>There is so much potential in the field of Blockchain that can change the way we do everything.
+Let me summarize some of the things that made or “yet to make” the world amazed.
+The invention of Bitcoin: First decentralized cryptocurrency and implementation of Blockchain. Solved problem of double spending and eliminated the need of the third party to approve the transaction.
+The invention of Ethereum: It is 2nd generation Blockchain and uses SmartContracts which makes it highly programmable.</description>
+    </item>
+    
+  </channel>
+</rss>
