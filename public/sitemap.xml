@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://prashantshahi.surge.sh/</loc>
+    <lastmod>2019-04-10T08:30:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://prashantshahi.surge.sh/blog/</loc>
+    <lastmod>2019-04-10T08:30:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://prashantshahi.surge.sh/blog/periodically-deleting-es-indices/</loc>
+    <lastmod>2019-04-10T08:30:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://prashantshahi.surge.sh/blog/explore-blockchain/</loc>
+    <lastmod>2018-07-15T08:30:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://prashantshahi.surge.sh/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://prashantshahi.surge.sh/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://prashantshahi.surge.sh/tags/</loc>
+  </url>
+  
+</urlset>
