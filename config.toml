@@ -21,6 +21,9 @@ googleAnalytics = "UA-116535819-4"
   keybase = "https://keybase.io/prashant_s"
   linkedin = "https://www.linkedin.com/in/prashantshahi"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [[menu.main]]
   name = "Home"
   url = "/"
