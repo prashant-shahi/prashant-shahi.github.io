@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "Blog"
 description: "A scrapbook of things that I find useful, mostly technical contents."
-featured_image: '/images/elk-curator.jpg'
+featured_image: '/images/cover.jpg'
 ---

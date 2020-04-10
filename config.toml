@@ -6,9 +6,20 @@ theme = "ananke"
 show_reading_time = true
 copyright = "prashantshahi.dev"
 disqusShortname = "prashantshahi"
+DefaultContentLanguage = "en"
+Paginate = 7
+googleAnalytics = "UA-116535819-4"
 
 [params]
-    env = "production"
+  description = "Scrapbook of Prashant: Tutorials and Technical Blogs around GraphQL, DevOps, Full Stack, MEAN/MERN/MEVN Stack, and other contents."
+  env = "production"
+  favicon = ""
+  recent_posts_number = 1
+  twitter = "https://twitter.com/c0degeas"
+  # gitlab = "https://gitlab.com/coolboi567"
+  github = "https://gitlab.com/prashant-shahi"
+  keybase = "https://keybase.io/prashant_s"
+  linkedin = "https://www.linkedin.com/in/prashantshahi"
 
 [[menu.main]]
   name = "Home"
@@ -25,3 +36,8 @@ disqusShortname = "prashantshahi"
   url = "/#about"
   identifier = "about"
   weight = 2
+[[menu.main]]
+  name = "Work"
+  url = "/#work"
+  identifier = "work"
+  weight = 3
