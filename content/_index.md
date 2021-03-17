@@ -1,5 +1,5 @@
 ---
-featured_image: '/images/cover.jpg'
+featured_image: "/images/cover.jpg"
 ---
 
 ---
@@ -30,18 +30,17 @@ In my spare time, I relish to go out for trekking, listen to acoustic music, pla
             <div class="bg-white mb2 pv3 ph4 gray overflow-hidden">
                 <!-- <span class="f6 db">{{ humanize .Section }}</span> -->
                 <h1 class="f3 fw1 athelas mt2 lh-title">
-                <a href="#" class="link black dim">
-                    <span>Cuerate by TheDeepLab AI, Bengaluru</span>
+                <a href="https://incredible.dev?referrer=prashantshahi.dev" class="link black dim">
+                    <span>Incredible.Dev, Bengaluru</span>
                     <p class="w-30 center">
-                        <img src="/images/cuerate.svg" alt="Dgraph logo">
+                        <img src="/images/incredibledev.svg" alt="Incredible Dev">
                     </p>
                 </a>
                 </h1>
                 <div class="nested-links f5 lh-copy nested-copy-line-height">
-                    Currently, I am a software engineer at TheDeepLab AI, San Francisco-based company.
-                    We have been working on building <strong>Cuerate</strong>, a revoluationary social
-                    networking platform for productive learning time.
-                    Cuerate is coming out soon, stay tuned!
+                    Currently, I am a senior software engineer at Incredible Dev, Bengaluru.
+                    We are trying to make it easy for anyone to create technical
+                    videos around code. Incredible Dev is coming out soon, stay tuned! Also, if you are interested to get an early access, join the waitlist from <a href="https://incredible.dev?referrer=prashantshahi.dev">our website</a>.
                 </div>
             </div>
         </div>
@@ -49,7 +48,7 @@ In my spare time, I relish to go out for trekking, listen to acoustic music, pla
             <div class="bg-white mb2 pv3 ph4 gray overflow-hidden">
                 <!-- <span class="f6 db">{{ humanize .Section }}</span> -->
                 <h1 class="f3 fw1 athelas mt2 lh-title">
-                <a href="https://dgraph.io" class="link black dim">
+                <a href="https://dgraph.io?referrer=prashantshahi.dev" class="link black dim">
                     <span>Dgraph Labs, Bengaluru</span>
                     <p class="w-30 center">
                         <img src="/images/dgraph.svg" alt="Dgraph logo">
@@ -60,9 +59,9 @@ In my spare time, I relish to go out for trekking, listen to acoustic music, pla
                     In the past, I worked as Developer Advocate Engineer at Dgraph Labs,
                     San Francisco-based graph database company. Dgraph is open-source
                     and written entirely in Golang.
-                    While my contributions don't limit to the Developer Relations efforts but
-                    I also maintained [Dgraph-Js](https://github.com/dgraph-io/dgraph-js/) and worked
-                    on the early stage development for [Slash GraphQL](https://dgraph.io/slash-graphql).
+                    While my contributions don't limit to the Developer Relations efforts but also development and maintance.
+                    I maintained <a href="https://github.com/dgraph-io/dgraph-js?referrer=prashantshahi.dev">Dgraph-JS</a> while I was in the company and also contributed
+                    on the early stage development for <a href="https://dgraph.io/slash-graphql?referrer=prashantshahi.dev">Slash GraphQL</a>.
                 </div>
             </div>
         </div>
@@ -70,7 +69,7 @@ In my spare time, I relish to go out for trekking, listen to acoustic music, pla
             <div class="bg-white mb2 pv3 ph4 gray overflow-hidden tc-l center">
                 <!-- <span class="f6 db">{{ humanize .Section }}</span> -->
                 <h1 class="f3 fw1 athelas mt2 lh-title">
-                <a href="https://rapido.bike/" class="link black dim">
+                <a href="https://rapido.bike?referrer=prashantshahi.dev" class="link black dim">
                     <span>Rapido Bike Taxi, Bengaluru</span>
                     <p class="w-30 center">
                         <img src="/images/rapido.png" alt="Rapido logo">
@@ -88,7 +87,7 @@ In my spare time, I relish to go out for trekking, listen to acoustic music, pla
             <div class="bg-white mb2 pv3 ph4 gray overflow-hidden">
                 <!-- <span class="f6 db">{{ humanize .Section }}</span> -->
                 <h1 class="f3 fw1 athelas mt2 lh-title">
-                <a href="https://www.noodlefactory.ai/" class="link black dim">
+                <a href="https://www.noodlefactory.ai?referrer=prashantshahi.dev" class="link black dim">
                     <span>Noodles Factory, Singapore</span>
                     <p class="w-30 center">
                         <img src="/images/noodlesfactory.png" alt="Noodles Factory logo">

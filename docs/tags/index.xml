@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Prashant&#39;s Scrapbook</title>
+    <link>https://prashantshahi.dev/tags/</link>
+    <description>Recent content in Tags on Prashant&#39;s Scrapbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>prashantshahi.dev</copyright>
+    <lastBuildDate>Mon, 13 May 2019 08:30:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://prashantshahi.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>apache spark</title>
+      <link>https://prashantshahi.dev/tags/apache-spark/</link>
+      <pubDate>Mon, 13 May 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/apache-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>big data</title>
+      <link>https://prashantshahi.dev/tags/big-data/</link>
+      <pubDate>Mon, 13 May 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data analysis</title>
+      <link>https://prashantshahi.dev/tags/data-analysis/</link>
+      <pubDate>Mon, 13 May 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jupyter notebook</title>
+      <link>https://prashantshahi.dev/tags/jupyter-notebook/</link>
+      <pubDate>Mon, 13 May 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minio</title>
+      <link>https://prashantshahi.dev/tags/minio/</link>
+      <pubDate>Mon, 13 May 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/minio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandas</title>
+      <link>https://prashantshahi.dev/tags/pandas/</link>
+      <pubDate>Mon, 13 May 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aws</title>
+      <link>https://prashantshahi.dev/tags/aws/</link>
+      <pubDate>Fri, 26 Apr 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firewall</title>
+      <link>https://prashantshahi.dev/tags/firewall/</link>
+      <pubDate>Fri, 26 Apr 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/firewall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gcp</title>
+      <link>https://prashantshahi.dev/tags/gcp/</link>
+      <pubDate>Fri, 26 Apr 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/gcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ufw</title>
+      <link>https://prashantshahi.dev/tags/ufw/</link>
+      <pubDate>Fri, 26 Apr 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/ufw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cronjob</title>
+      <link>https://prashantshahi.dev/tags/cronjob/</link>
+      <pubDate>Wed, 10 Apr 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/cronjob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curator</title>
+      <link>https://prashantshahi.dev/tags/curator/</link>
+      <pubDate>Wed, 10 Apr 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/curator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elasticsearch</title>
+      <link>https://prashantshahi.dev/tags/elasticsearch/</link>
+      <pubDate>Wed, 10 Apr 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/elasticsearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bitcoin</title>
+      <link>https://prashantshahi.dev/tags/bitcoin/</link>
+      <pubDate>Sun, 15 Jul 2018 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/bitcoin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blockchain</title>
+      <link>https://prashantshahi.dev/tags/blockchain/</link>
+      <pubDate>Sun, 15 Jul 2018 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dapps</title>
+      <link>https://prashantshahi.dev/tags/dapps/</link>
+      <pubDate>Sun, 15 Jul 2018 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/dapps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethereum</title>
+      <link>https://prashantshahi.dev/tags/ethereum/</link>
+      <pubDate>Sun, 15 Jul 2018 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/tags/ethereum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
