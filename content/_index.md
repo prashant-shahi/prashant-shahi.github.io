@@ -11,11 +11,12 @@ Hey there! I am Prashant.
 ![Prashant's Photo](/images/website.jpg)
 
 I hail from Himalayas of Nepal who grew up playing alongside Yeti,
-the mythical beast.
+the mythical beast. ;)
 
 I recall the start of my love and passion for coding since mid-2000 when
-I first got introduced to QBasic. At present, I am passionate about various engineering domains,
-product, and developer relations. I can wear different hats as needed.
+I first got introduced to QBasic. At present, I am working in DevOps but
+I am passionate about various engineering domains, product, and
+developer relations. I can wear different hats as needed.
 
 In my spare time, I relish to go out for trekking, listen to acoustic music, play the guitar, and
 [contribute to Wikipedia](https://en.wikipedia.org/wiki/User:coolboi567).
@@ -30,17 +31,39 @@ In my spare time, I relish to go out for trekking, listen to acoustic music, pla
             <div class="bg-white mb2 pv3 ph4 gray overflow-hidden">
                 <!-- <span class="f6 db">{{ humanize .Section }}</span> -->
                 <h1 class="f3 fw1 athelas mt2 lh-title">
+                <a href="https://signoz.io?referrer=prashantshahi.dev" class="link black dim">
+                    <span>SigNoz, Bengaluru</span>
+                    <p class="w-30 center">
+                        <img src="/images/signoz.svg" alt="SigNoz">
+                    </p>
+                </a>
+                </h1>
+                <div class="nested-links f5 lh-copy nested-copy-line-height">
+                    Currently, I am working as DevOps Engineer at <b>SigNoz</b>.<br/>
+                    <b>SigNoz</b> is monitoring and troubleshooting developer tool.<br/>
+                    It is an open source alternative to DataDog and NewRelic.<br/><br/>
+                    We have got lots of interest from the dev community with 5000+ stars
+                    within 8 months of launching the <a href="https://github.com/SigNoz/signoz?referrer=prashantshahi.dev">project on GitHub</a>.<br/><br/>
+                    Sounds interesting? Check out <a href="https://signoz.io/docs?referrer=prashantshahi.dev">our quick start guide</a>.
+                </div>
+            </div>
+        </div>
+        <div class="relative w-100 mb4 bg-white">
+            <div class="bg-white mb2 pv3 ph4 gray overflow-hidden">
+                <!-- <span class="f6 db">{{ humanize .Section }}</span> -->
+                <h1 class="f3 fw1 athelas mt2 lh-title">
                 <a href="https://incredible.dev?referrer=prashantshahi.dev" class="link black dim">
                     <span>Incredible.Dev, Bengaluru</span>
-                    <p class="w-30 center">
+                    <p class="w-30 center bg-black pa1">
                         <img src="/images/incredibledev.svg" alt="Incredible Dev">
                     </p>
                 </a>
                 </h1>
                 <div class="nested-links f5 lh-copy nested-copy-line-height">
-                    Currently, I am a senior software engineer at Incredible Dev, Bengaluru.
-                    We are trying to make it easy for anyone to create technical
-                    videos around code. Incredible Dev is coming out soon, stay tuned! Also, if you are interested to get an early access, join the waitlist from <a href="https://incredible.dev?referrer=prashantshahi.dev">our website</a>.
+                    In the past, I worked as Senior Software Engineer at <b>Incredible Dev</b>, Bengaluru.
+                    <b>Incredible.dev</b> is the web platform that makes it easy for anyone to create technical
+                    videos around code.<br/><br/>
+                    I mainly worked and led the Backend and the DevOps.
                 </div>
             </div>
         </div>
@@ -56,12 +79,12 @@ In my spare time, I relish to go out for trekking, listen to acoustic music, pla
                 </a>
                 </h1>
                 <div class="nested-links f5 lh-copy nested-copy-line-height">
-                    In the past, I worked as Developer Advocate Engineer at Dgraph Labs,
-                    San Francisco-based graph database company. Dgraph is open-source
-                    and written entirely in Golang.
-                    While my contributions don't limit to the Developer Relations efforts but also development and maintance.
-                    I maintained <a href="https://github.com/dgraph-io/dgraph-js?referrer=prashantshahi.dev">Dgraph-JS</a> while I was in the company and also contributed
-                    on the early stage development for <a href="https://dgraph.io/slash-graphql?referrer=prashantshahi.dev">Slash GraphQL</a>.
+                    In the past, I worked as Developer Advocate Engineer at <b>Dgraph Labs</b>,
+                    San Francisco-based graph database company. <b>Dgraph</b> is open-source
+                    and written entirely in Golang.<br/><br/>
+                    While my contributions don't limit to the Developer Relations efforts but also engineering.
+                    I maintained <a href="https://github.com/dgraph-io/dgraph-js?referrer=prashantshahi.dev">Dgraph-JS</a> and <a href="https://github.com/dgraph-io/charts?referrer=prashantshahi.dev">Dgraph Helm chart</a> while I was in the company and also contributed
+                    on the early stage development for <a href="https://cloud.dgraph.io?referrer=prashantshahi.dev">Slash GraphQL (now Dgraph Cloud)</a>.
                 </div>
             </div>
         </div>
@@ -77,7 +100,7 @@ In my spare time, I relish to go out for trekking, listen to acoustic music, pla
                 </a>
                 </h1>
                 <div class="nested-links f5 lh-copy nested-copy-line-height">
-                    In the past, I have worked for Rapido, which is the largest Bike Taxi company in India.
+                    In the past, I have worked for <b>Rapido</b>, which is the largest Bike Taxi company in India.
                     I majorly contributed to their DevOps infrastructure and also worked on building
                     a combination of data pipelines.
                 </div>
@@ -95,7 +118,7 @@ In my spare time, I relish to go out for trekking, listen to acoustic music, pla
                 </a>
                 </h1>
                 <div class="nested-links f5 lh-copy nested-copy-line-height">
-                    In the past, I have remotely worked for Noodles Factory, where I worked in building
+                    In the past, I have remotely worked for <b>Noodles Factory</b>, where I worked in building
                     the backend for AI-powered Chatbot, Walter from the very early stage.
                 </div>
             </div>
