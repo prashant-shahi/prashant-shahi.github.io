@@ -6,10 +6,6 @@
     <description>Recent content in Categories on Prashant&#39;s Scrapbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>prashantshahi.dev</copyright>
-    
-	<atom:link href="https://prashantshahi.dev/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>prashantshahi.dev</copyright><atom:link href="https://prashantshahi.dev/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

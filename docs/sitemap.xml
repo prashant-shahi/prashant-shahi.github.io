@@ -1,129 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://prashantshahi.dev/</loc>
     <lastmod>2019-05-13T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/apache-spark/</loc>
     <lastmod>2019-05-13T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/big-data/</loc>
     <lastmod>2019-05-13T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/blog/</loc>
     <lastmod>2019-05-13T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/data-analysis/</loc>
     <lastmod>2019-05-13T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/blog/data-analysis-spark-minio/</loc>
     <lastmod>2019-05-13T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/jupyter-notebook/</loc>
     <lastmod>2019-05-13T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/minio/</loc>
     <lastmod>2019-05-13T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/pandas/</loc>
     <lastmod>2019-05-13T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/</loc>
     <lastmod>2019-05-13T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/aws/</loc>
     <lastmod>2019-04-26T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/firewall/</loc>
     <lastmod>2019-04-26T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/gcp/</loc>
     <lastmod>2019-04-26T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/blog/recover-firewall-ssh-access/</loc>
     <lastmod>2019-04-26T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/ufw/</loc>
     <lastmod>2019-04-26T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/cronjob/</loc>
     <lastmod>2019-04-10T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/curator/</loc>
     <lastmod>2019-04-10T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/blog/periodically-deleting-es-indices/</loc>
     <lastmod>2019-04-10T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/elasticsearch/</loc>
     <lastmod>2019-04-10T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/bitcoin/</loc>
     <lastmod>2018-07-15T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/blockchain/</loc>
     <lastmod>2018-07-15T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/dapps/</loc>
     <lastmod>2018-07-15T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/tags/ethereum/</loc>
     <lastmod>2018-07-15T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/blog/explore-blockchain/</loc>
     <lastmod>2018-07-15T08:30:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prashantshahi.dev/categories/</loc>
   </url>
-  
 </urlset>
