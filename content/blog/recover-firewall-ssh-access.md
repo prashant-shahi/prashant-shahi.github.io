@@ -3,7 +3,7 @@ title: "Recover from firewall not allowing ssh on port 22 in GCP instance"
 date: 2019-04-26T08:30:00+05:30
 author: Prashant Shahi
 show_reading_time: true
-toc: true
+toc: false
 tags:
   - aws
   - firewall
@@ -21,7 +21,7 @@ This article might be your savior. 😎
 
 Follow the instructions below :
 
-1. Go to your VM’s configuration page. Select the project. Then, Go to Compute ->
+1. Go to your VM's configuration page. Select the project. Then, Go to Compute ->
 Compute Engine -> VM Instances. Click the VM you want to recover
 2. Click Edit. Then, scroll down to Custom Metadata
 3. Create a new metadata field. Set the key to startup-script. Set value to sudo ufw allow 22
