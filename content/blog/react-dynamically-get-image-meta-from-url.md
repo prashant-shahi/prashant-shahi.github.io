@@ -9,7 +9,7 @@ tags:
   - image-dimension
 ---
 
-![ELK Curator Image](/images/elk-curator.jpg)
+![Image Dimensions](/images/image-dimensions.png)
 
 ## Problem statement
 There might be cases when you would be required to obtain metadata of a media before it is loaded.
