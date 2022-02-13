@@ -6,7 +6,7 @@
 <meta name=viewport content="width=device-width,minimum-scale=1">
 <meta name=generator content="Hugo 0.91.2">
 <meta name=ROBOTS content="INDEX, FOLLOW">
-<link href=/dist/css/app.1cb140d8ba31d5b2f1114537dd04802a.css rel=stylesheet>
+<link href=../../dist/css/app.1cb140d8ba31d5b2f1114537dd04802a.css rel=stylesheet>
 <meta property="og:title" content="Data Analysis using Sparks, Pandas, and Matplotlib using Jupyter Notebook for data in S3(Minio)">
 <meta property="og:description" content="Data Analysis is to understand problems facing an organization and to explore data in meaningful ways. Data in itself is merely facts and figures. Evaluation of the data can provide advantages to the organization and aid in making business decisions.
 Brief Overview of the components Apache Spark is a lightning-fast cluster computing technology, designed for fast computation and based on Hadoop MapReduce.
@@ -40,22 +40,22 @@ Prashant's Scrapbook
 <div class="flex-l items-center">
 <ul class="pl0 mr3">
 <li class="list f5 f4-ns fw4 dib pr3">
-<a class="hover-white no-underline white-90" href=/ title="Home page">
+<a class="hover-white no-underline white-90" href=../../ title="Home page">
 Home
 </a>
 </li>
 <li class="list f5 f4-ns fw4 dib pr3">
-<a class="hover-white no-underline white-90" href=/blog title="Blog page">
+<a class="hover-white no-underline white-90" href=../../blog title="Blog page">
 Blog
 </a>
 </li>
 <li class="list f5 f4-ns fw4 dib pr3">
-<a class="hover-white no-underline white-90" href=/#about title="About page">
+<a class="hover-white no-underline white-90" href=../../#about title="About page">
 About
 </a>
 </li>
 <li class="list f5 f4-ns fw4 dib pr3">
-<a class="hover-white no-underline white-90" href=/#work title="Work page">
+<a class="hover-white no-underline white-90" href=../../#work title="Work page">
 Work
 </a>
 </li>
@@ -308,7 +308,7 @@ scala<span style=color:#f92672>&gt;</span> app<span style=color:#f92672>.</span>
 <span style=color:#f92672>|</span>   <span style=color:#a6e22e>Andy</span><span style=color:#f92672>|</span> <span style=color:#ae81ff>30</span><span style=color:#f92672>|</span>
 <span style=color:#f92672>+-------+---+</span>
 scala<span style=color:#f92672>&gt;</span>
-</code></pre></div><p><img src=/images/data-analysis/1.jpg alt="Scala UI"></p>
+</code></pre></div><p><img src=../../images/data-analysis/1.jpg alt="Scala UI"></p>
 <p>You can see that out of 3 entries, we could use SQL-like query to only select those
 entries with age > 19.</p>
 <p>Awesome, you have successfully set up Spark! Let&rsquo;s proceed futher.</p>
@@ -422,9 +422,9 @@ p2j spark-minio.py
 </code></pre></div><h3 id=runningipynb-file-from-the-jupyter-notebookui>Running .ipynb file from the Jupyter notebook UI</h3>
 <p>Let&rsquo;s open the UI running at http://(server-public-ip-address/localhost):8888/.
 Enter the jupyter notebok password (or the token) and then, you should be seeing something like this :</p>
-<p><img src=/images/data-analysis/2.jpg alt="Jupyter Notebook UI"></p>
+<p><img src=../../images/data-analysis/2.jpg alt="Jupyter Notebook UI"></p>
 <p>Select spark-minio.ipynb file and click on run, if everything went right, you should be getting the screen below :</p>
-<p><img src=/images/data-analysis/3.jpg alt="Jupyter Notebook - loading people.csv"></p>
+<p><img src=../../images/data-analysis/3.jpg alt="Jupyter Notebook - loading people.csv"></p>
 <p>Running Some Live Examples
  Before running the example, let&rsquo;s get compress the sample csv file with gzip compression.</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sh data-lang=sh><span style=color:#75715e># Generating gzip file named people.csv.gz file out of people.csv, while keeping the original file with -k flag</span>
@@ -507,7 +507,7 @@ conda install pandas matplotlib
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python>df3 <span style=color:#f92672>=</span> df2<span style=color:#f92672>.</span>toPandas()
 df3<span style=color:#f92672>.</span>plot(x<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;is_male&#39;</span>, y<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;count&#39;</span>, kind<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;bar&#39;</span>)
 df3<span style=color:#f92672>.</span>plot(x<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;is_male&#39;</span>, y<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;avg_weight&#39;</span>, kind<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;bar&#39;</span>)
-</code></pre></div><p><img src=/images/data-analysis/4.jpg alt="Example 1 - gender vs count"> <img src=/images/data-analysis/5.jpg alt="Example 1 - gender vs average weight">
+</code></pre></div><p><img src=../../images/data-analysis/4.jpg alt="Example 1 - gender vs count"> <img src=../../images/data-analysis/5.jpg alt="Example 1 - gender vs average weight">
 <em>Chart Graph of Is_Male Boolean VS Count and Average weight</em></p>
 <p><strong>Observation</strong>: From the generated chart, we can observe that gender of the child doesn&rsquo;t
 have any significant role neither in the average weight of the child nor wide difference
@@ -536,7 +536,7 @@ print(<span style=color:#e6db74>&#34;***DONE***&#34;</span>)
 </code></pre></div><p>After running the program, when it prints DONE. Create a new cell below and run the following snippet:</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python>df4<span style=color:#f92672>.</span>plot(x<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;mother_age&#39;</span>, y<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;count&#39;</span>)
 df4<span style=color:#f92672>.</span>plot(x<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;mother_age&#39;</span>, y<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;avg_weight&#39;</span>)data
-</code></pre></div><p><img src=/images/data-analysis/6.jpg alt="Example 2 - mother age vs count"> <img src=/images/data-analysis/7.jpg alt="Example 2 - mother age vs average weight">
+</code></pre></div><p><img src=../../images/data-analysis/6.jpg alt="Example 2 - mother age vs count"> <img src=../../images/data-analysis/7.jpg alt="Example 2 - mother age vs average weight">
 <em>Chart Graph of Mother Age VS Count and Average weight</em></p>
 <p><strong>Observation</strong> : We can observe that most of the mothers are between 20–30 age range when
 they gave birth. While the average weight of the children shows some decline in case of mothers at a young
@@ -567,7 +567,7 @@ Here, we are introducing matplotlib&rsquo;s axes object(ax), and dataframe.descr
 fig, ax <span style=color:#f92672>=</span> plt<span style=color:#f92672>.</span>subplots()
 df4<span style=color:#f92672>.</span>plot(kind<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;scatter&#34;</span>, x<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;gestation_weeks&#34;</span>, y<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;avg_weight&#34;</span>, s<span style=color:#f92672>=</span><span style=color:#ae81ff>100</span>, c<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;count&#34;</span>, cmap<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;RdYlGn&#34;</span>, ax<span style=color:#f92672>=</span>ax)
 df4<span style=color:#f92672>.</span>describe()
-</code></pre></div><p><img src=/images/data-analysis/8.jpg alt="Example 3 - gestation week vs count"> <img src=/images/data-analysis/9.jpg alt="Example 3 - gestation week vs average weight">
+</code></pre></div><p><img src=../../images/data-analysis/8.jpg alt="Example 3 - gestation week vs count"> <img src=../../images/data-analysis/9.jpg alt="Example 3 - gestation week vs average weight">
 <em>Scatter Graph and Data Frame Description of Gestation week VS Count and Average weight</em></p>
 <p><strong>Observation</strong>: From the scatter graph, it can be seen that the maximum number of mothers'
 gestation period was 40 weeks and children born around this period are mostly of more
@@ -578,22 +578,22 @@ value present for those whose gestation period data wasn&rsquo;t available.</p>
 <hr>
 <ul class="pa0 mb0">
 <li class=list style=display:inline>
-<a href=/tags/apache-spark class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">apache spark</a>
+<a href=../../tags/apache-spark class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">apache spark</a>
 </li>
 <li class=list style=display:inline>
-<a href=/tags/big-data class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">big data</a>
+<a href=../../tags/big-data class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">big data</a>
 </li>
 <li class=list style=display:inline>
-<a href=/tags/data-analysis class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">data analysis</a>
+<a href=../../tags/data-analysis class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">data analysis</a>
 </li>
 <li class=list style=display:inline>
-<a href=/tags/jupyter-notebook class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">jupyter notebook</a>
+<a href=../../tags/jupyter-notebook class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">jupyter notebook</a>
 </li>
 <li class=list style=display:inline>
-<a href=/tags/minio class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">minio</a>
+<a href=../../tags/minio class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">minio</a>
 </li>
 <li class=list style=display:inline>
-<a href=/tags/pandas class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">pandas</a>
+<a href=../../tags/pandas class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">pandas</a>
 </li>
 </ul>
 <div class="mt6 instapaper_ignoref">
@@ -665,6 +665,6 @@ value present for those whose gestation period data wasn&rsquo;t available.</p>
 </div>
 </div>
 </footer>
-<script src=/dist/js/app.3fc0f988d21662902933.js></script>
+<script src=../../dist/js/app.3fc0f988d21662902933.js></script>
 </body>
 </html>
