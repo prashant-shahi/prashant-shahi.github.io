@@ -19,7 +19,7 @@ I am passionate about various engineering domains, product, and
 developer relations. I can wear different hats as needed.
 
 In my spare time, I relish to go out for trekking, listen to acoustic music, play the guitar, and
-[contribute to Wikipedia](https://en.wikipedia.org/wiki/User:coolboi567).
+contribute to Wikipedia.
 
 ---
 
