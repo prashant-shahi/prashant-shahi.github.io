@@ -9,6 +9,7 @@ disqusShortname = "prashantshahi"
 DefaultContentLanguage = "en"
 Paginate = 7
 googleAnalytics = "UA-116535819-4"
+relativeURLS=true
 
 [params]
   description = "Scrapbook of Prashant: Tutorials and Technical Blogs around GraphQL, DevOps, Full Stack, MEAN/MERN/MEVN Stack, and other contents."
