@@ -1,16 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Prashant's Scrapbook</title><link>https://prashantshahi.dev/blog/</link><description>Recent content in Blog on Prashant's Scrapbook</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>prashantshahi.dev</copyright><lastBuildDate>Thu, 14 Jan 2021 08:30:00 +0530</lastBuildDate><atom:link href="https://prashantshahi.dev/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Dynamically get image dimensions from image URL in React</title><link>https://prashantshahi.dev/blog/react-dynamically-get-image-meta-from-url/</link><pubDate>Thu, 14 Jan 2021 08:30:00 +0530</pubDate><guid>https://prashantshahi.dev/blog/react-dynamically-get-image-meta-from-url/</guid><description>Problem statement There might be cases when you would be required to obtain metadata of a media before it is loaded. The usual way you would go about it is to have an API that gives back the media metadata from the server. But here we will be getting the image dimension using React.
-Steps to solution Firstly, we will be creating an instance of the HTML Image element and then pass the image URL.</description></item><item><title>Data Analysis using Sparks, Pandas, and Matplotlib using Jupyter Notebook for data in S3(Minio)</title><link>https://prashantshahi.dev/blog/data-analysis-spark-minio/</link><pubDate>Mon, 13 May 2019 08:30:00 +0530</pubDate><guid>https://prashantshahi.dev/blog/data-analysis-spark-minio/</guid><description>Data Analysis is to understand problems facing an organization and to explore data in meaningful ways. Data in itself is merely facts and figures. Evaluation of the data can provide advantages to the organization and aid in making business decisions.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Prashant&#39;s Scrapbook</title>
+    <link>https://prashantshahi.dev/blog/</link>
+    <description>Recent content in Blog on Prashant&#39;s Scrapbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>prashantshahi.dev</copyright>
+    <lastBuildDate>Thu, 14 Jan 2021 08:30:00 +0530</lastBuildDate><atom:link href="https://prashantshahi.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamically get image dimensions from image URL in React</title>
+      <link>https://prashantshahi.dev/blog/react-dynamically-get-image-meta-from-url/</link>
+      <pubDate>Thu, 14 Jan 2021 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/blog/react-dynamically-get-image-meta-from-url/</guid>
+      <description>Problem statement There might be cases when you would be required to obtain metadata of a media before it is loaded. The usual way you would go about it is to have an API that gives back the media metadata from the server. But here we will be getting the image dimension using React.
+Steps to solution Firstly, we will be creating an instance of the HTML Image element and then pass the image URL.</description>
+    </item>
+    
+    <item>
+      <title>Data Analysis using Sparks, Pandas, and Matplotlib using Jupyter Notebook for data in S3(Minio)</title>
+      <link>https://prashantshahi.dev/blog/data-analysis-spark-minio/</link>
+      <pubDate>Mon, 13 May 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/blog/data-analysis-spark-minio/</guid>
+      <description>Data Analysis is to understand problems facing an organization and to explore data in meaningful ways. Data in itself is merely facts and figures. Evaluation of the data can provide advantages to the organization and aid in making business decisions.
 Brief Overview of the components Apache Spark is a lightning-fast cluster computing technology, designed for fast computation and based on Hadoop MapReduce.
-Pandas is a software library written in Python for data manipulation and analysis.</description></item><item><title>Recover from firewall not allowing ssh on port 22 in GCP instance</title><link>https://prashantshahi.dev/blog/recover-firewall-ssh-access/</link><pubDate>Fri, 26 Apr 2019 08:30:00 +0530</pubDate><guid>https://prashantshahi.dev/blog/recover-firewall-ssh-access/</guid><description>Tried to setup UFW or any other Firewall, but it disallows any traffic to port 22, which doesn&amp;rsquo;t let you ssh to your Google Cloud Platform (GCP) or Aamazon Web Services (AWS) instance? 😖
+Pandas is a software library written in Python for data manipulation and analysis.</description>
+    </item>
+    
+    <item>
+      <title>Recover from firewall not allowing ssh on port 22 in GCP instance</title>
+      <link>https://prashantshahi.dev/blog/recover-firewall-ssh-access/</link>
+      <pubDate>Fri, 26 Apr 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/blog/recover-firewall-ssh-access/</guid>
+      <description>Tried to setup UFW or any other Firewall, but it disallows any traffic to port 22, which doesn&amp;rsquo;t let you ssh to your Google Cloud Platform (GCP) or Aamazon Web Services (AWS) instance? 😖
 This article might be your savior. 😎
 Follow the instructions below :
-Go to your VM&amp;rsquo;s configuration page. Select the project. Then, Go to Compute -&amp;gt; Compute Engine -&amp;gt; VM Instances. Click the VM you want to recover Click Edit.</description></item><item><title>Deleting ElasticSearch indices periodically using Curator and Cron Job</title><link>https://prashantshahi.dev/blog/periodically-deleting-es-indices/</link><pubDate>Wed, 10 Apr 2019 08:30:00 +0530</pubDate><guid>https://prashantshahi.dev/blog/periodically-deleting-es-indices/</guid><description>Here is a complete step-by-step instruction to set a cronjob using Curator to delete ElasticSearch indices periodically.
+ Go to your VM&amp;rsquo;s configuration page. Select the project. Then, Go to Compute -&amp;gt; Compute Engine -&amp;gt; VM Instances. Click the VM you want to recover Click Edit.</description>
+    </item>
+    
+    <item>
+      <title>Deleting ElasticSearch indices periodically using Curator and Cron Job</title>
+      <link>https://prashantshahi.dev/blog/periodically-deleting-es-indices/</link>
+      <pubDate>Wed, 10 Apr 2019 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/blog/periodically-deleting-es-indices/</guid>
+      <description>Here is a complete step-by-step instruction to set a cronjob using Curator to delete ElasticSearch indices periodically.
 Installation of Python and Pip You can skip this step, if you already have python and pip.
 Step 1:
 Ensure that all packages are up-to-date. After running the command below, you’ll get an output of any packages getting their update.
 sudo apt-get update Step 2:
 Install python and pip using apt-get.
-sudo apt-get install -y python-dev python-pip Step 3:</description></item><item><title>Some of the best Blockchain Invention — yet to explore full potential</title><link>https://prashantshahi.dev/blog/explore-blockchain/</link><pubDate>Sun, 15 Jul 2018 08:30:00 +0530</pubDate><guid>https://prashantshahi.dev/blog/explore-blockchain/</guid><description>There is so much potential in the field of Blockchain that can change the way we do everything.
+sudo apt-get install -y python-dev python-pip Step 3:</description>
+    </item>
+    
+    <item>
+      <title>Some of the best Blockchain Invention — yet to explore full potential</title>
+      <link>https://prashantshahi.dev/blog/explore-blockchain/</link>
+      <pubDate>Sun, 15 Jul 2018 08:30:00 +0530</pubDate>
+      
+      <guid>https://prashantshahi.dev/blog/explore-blockchain/</guid>
+      <description>There is so much potential in the field of Blockchain that can change the way we do everything.
 Let me summarize some of the things that made or “yet to make” the world amazed.
 The invention of Bitcoin: First decentralized cryptocurrency and implementation of Blockchain. Solved problem of double spending and eliminated the need of the third party to approve the transaction.
-The invention of Ethereum: It is 2nd generation Blockchain and uses SmartContracts which makes it highly programmable.</description></item></channel></rss>
+The invention of Ethereum: It is 2nd generation Blockchain and uses SmartContracts which makes it highly programmable.</description>
+    </item>
+    
+  </channel>
+</rss>
