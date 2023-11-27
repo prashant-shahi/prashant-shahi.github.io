@@ -40,10 +40,11 @@ contribute to Wikipedia.
                 </h1>
                 <div class="nested-links f5 lh-copy nested-copy-line-height">
                     Currently, I am working as DevOps Engineer at <b>SigNoz</b>.<br/>
-                    <b>SigNoz</b> is monitoring and troubleshooting developer tool.<br/>
+                    <b>SigNoz</b> is an Open-Telemetry native observablity platform
+                    in which Traces, Metrics, and Logs are in a single pane.<br/>
                     It is an open source alternative to DataDog and NewRelic.<br/><br/>
-                    We have got lots of interest from the dev community with 5000+ stars
-                    within 8 months of launching the <a href="https://github.com/SigNoz/signoz?referrer=prashantshahi.dev">project on GitHub</a>.<br/><br/>
+                    We have got lots of interest from the dev community with 15000+ stars
+                    within couple of years of launching the <a href="https://github.com/SigNoz/signoz?referrer=prashantshahi.dev">project on GitHub</a>.<br/><br/>
                     Sounds interesting? Check out <a href="https://signoz.io/docs?referrer=prashantshahi.dev">our quick start guide</a>.
                 </div>
             </div>
